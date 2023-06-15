@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    height: 600px;
+    width: 800px;
+    background: teal;
+}
+.row_one{
+    height: 200px;
+    width: 800px;
+    background: rgb(6, 245, 26);
+}
+.row_two{
+    height: 200px;
+    width: 800px;
+    background: rgb(235, 23, 23);
+}
+.row_three{
+    height: 200px;
+    width: 800px;
+    background: rgb(31, 28, 241);
+}
+.row_one_col_one{
+     height: 200px;
+     width: 400px;
+     background: rgb(229, 245, 13);
+     float: left;
+}
+.row_one_col_two{
+    height: 200px;
+    width: 400px;
+    background: rgb(17, 111, 219);
+    float:left;
+}
+.row_one_col_one_row_one{
+    height: 130px;
+    width: 400px;
+    background: rgb(68, 235, 17);
+}
+.row_one_col_one_row_two{
+    height: 70px;
+    width: 400px;
+    background: rgb(231, 12, 165);
+}
+.row_one_col_one_row_two_col_one{
+    height:70px;
+    width: 200px;
+    background:rgb(8, 224, 188);
+    float: left;
+}
+.row_one_col_one_row_two_col_two{
+    height:70px;
+    width: 200px;
+    background:rgb(250, 173, 6);
+    float:left;
+}
+.row_one_col_two_row_one{
+    height: 90px;
+    width: 400px;
+    background: rgb(228, 7, 248);
+}
+.row_one_col_two_row_two{
+    height: 110px;
+    width: 400px;
+    background: rgb(228, 250, 28);
+}
+.row_one_col_two_row_one_col_one{
+    height: 90px;
+    width: 200px;
+    background: rgb(83, 27, 240);
+    float: left;
+}
+.row_one_col_two_row_one_col_two{
+    height: 90px;
+    width: 200px;
+    background: rgb(11, 238, 11);
+    float: left;
+}
+.row_one_col_two_row_one_col_two_row_one{
+    height: 45px;
+    width: 200px;
+    background: rgb(219, 12, 5);
+}
+.row_one_col_two_row_one_col_two_row_two{
+    height: 45px;
+    width: 200px;
+    background: rgba(1, 229, 245, 0.63);
+}
+.row_one_col_two_row_one_col_two_row_two_col_one{
+    height: 45px;
+    width: 100px;
+    background: rgba(5, 236, 5, 0.925);
+    float: left;
+}
+.row_one_col_two_row_one_col_two_row_two_col_two{
+    height: 45px;
+    width: 100px;
+    background: rgba(236, 4, 205, 0.644);
+    float: left;
+}
+.row_two_col_one{
+    height: 200px;
+    width: 450px;
+    background:rgba(247, 21, 160, 0.993);
+    float: left;
+}
+.row_two_col_two{
+    height: 200px;
+    width: 350px;
+    background:rgba(89, 23, 165, 0.993);
+    float: left;
+}
+.row_two_col_two_col_one{
+    height: 200px;
+    width: 100px;
+    background:rgba(15, 151, 230, 0.993);
+    float: left;
+}
+.row_two_col_two_col_two{
+    height: 200px;
+    width: 150px;
+    background:rgba(135, 6, 221, 0.993);
+    float: left;
+}
+.row_two_col_two_col_three{
+    height: 200px;
+    width: 100px;
+    background:rgba(252, 124, 4, 0.993);
+    float: left;
+}
+.row_two_col_two_col_two_row_one{
+    height: 100px;
+    width: 150px;
+    background:rgba(230, 9, 9, 0.993);
+}
+.row_two_col_two_col_two_row_two{
+    height: 100px;
+    width: 150px;
+    background:rgba(181, 241, 13, 0.993);
+}
+.row_two_col_two_col_two_row_two_col_one{
+    height: 100px;
+    width: 75px;
+    background:rgba(27, 255, 6, 0.993);
+    float: left;
+}
+.row_two_col_two_col_two_row_two_col_two{
+    height: 100px;
+    width: 75px;
+    background:rgba(245, 241, 4, 0.993);
+    float: left;
+}
+.row_two_col_two_col_two_row_two_col_one_row_one{
+    height: 50px;
+    width: 75px;
+    background:rgba(2, 245, 14, 0.993);
+}
+.row_two_col_two_col_two_row_two_col_one_row_two{
+    height: 50px;
+    width: 75px;
+    background:rgba(211, 19, 179, 0.993);
+}
+.row_three_col_one{
+    height: 200px;
+    width: 200px;
+    background: red;
+    float: left;
+}
+.row_three_col_two{
+    height: 200px;
+    width: 280px;
+    background: rgb(255, 232, 21);
+    float: left;
+}
+.row_three_col_three{
+    height: 200px;
+    width: 320px;
+    background: rgb(27, 6, 224);
+    float: left;
+}
+.row_three_col_three_row_one{
+    height: 100px;
+    width: 320px;
+    background: rgb(22, 233, 15);
+}
+.row_three_col_three_row_two{
+    height: 100px;
+    width: 320px;
+    background: rgb(236, 11, 98);
+}
+.row_three_col_three_row_two_col_one{
+    height: 100px;
+    width: 160px;
+    background: rgb(248, 95, 7);
+    float: left;
+}
+.row_three_col_three_row_two_col_two{
+    height: 100px;
+    width: 160px;
+    background: rgb(209, 7, 158);
+    float: left;
+}
+.row_three_col_three_row_two_col_one_row_one{
+    height: 50px;
+    width: 160px;
+    background: red;
+}
+.row_three_col_three_row_two_col_one_row_one_row_two{
+    height: 50px;
+    width: 160px;
+    background: rgb(9, 63, 145);
+}
+.row_three_col_three_row_two_col_one_row_one_row_two_col_one{
+    height: 50px;
+    width: 50px;
+    background: #0dcf06;
+    float: left;
+}
+.row_three_col_three_row_two_col_one_row_one_row_two_col_two{
+    height: 50px;
+    width: 55px;
+    background: #04eaf1;
+    float: left;
+}
+.row_three_col_three_row_two_col_one_row_one_row_two_col_three{
+    height: 50px;
+    width: 55px;
+    background: #2106bb;
+    float: left;
+}
+.row_three_col_one_row_one{
+    height: 100px;
+    width: 200px;
+    background: #2106bb;
+}
+.row_three_col_one_row_two{
+    height: 100px;
+    width: 200px;
+    background: #eb0505; 
+}
